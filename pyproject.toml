@@ -81,6 +81,7 @@ ignore = [
   "B904",
   "BLE001",
   "C901",
+  "CPY001",
   "D100",
   "D101",
   "D104",
@@ -127,4 +128,3 @@ ignore = [
 
 [tool.ruff.lint.pydocstyle]
 convention = "google"
-
